@@ -62,7 +62,7 @@ a#linklinkedin2 {
   height: 144px;
   left: 100px;
   top: 180px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 34px;
   line-height: 15px;
   color: #111111;
@@ -73,7 +73,7 @@ a#linklinkedin2 {
   height: 16px;
   left: 144px;
   top: 50px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 16px;
   color: #111111;
@@ -93,7 +93,7 @@ a#linklinkedin2 {
   height: 23px;
   left: 100px;
   top: 344px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 20px;
   line-height: 23px;
   color: rgba(17, 17, 17, 0.5);
@@ -125,7 +125,7 @@ p#inscrevase {
   height: 45px;
   margin: 0%;
   padding-top: 11px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   text-align: center;
   color: #226ed8;
   font-size: 18px;
@@ -153,7 +153,7 @@ div#edital {
   height: 50;
   width: 70px;
   color: #226ed8;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 18px;
   line-height: 21px;
 }
@@ -177,7 +177,7 @@ div#edital:hover {
   height: 200px;
   left: 447px;
   top: 700px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 25px;
   color: #111111;
@@ -195,7 +195,7 @@ div#texto1 {
   height: 68px;
   top: 634px;
   left: 100px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-weight: 500;
   font-size: 30px;
   line-height: 34px;
@@ -217,7 +217,7 @@ p#titulo {
   width: 84px;
   height: 34px;
   left: 100px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 30px;
   line-height: 34px;
   color: #111111;
@@ -244,7 +244,7 @@ div#container_coluna3 {
   left: 888px;
 }
 div#lc11 {
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
@@ -252,13 +252,13 @@ div#lc11 {
 div#lc21 {
   position: relative;
   top: 64px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
 }
 div#lc12 {
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
@@ -266,13 +266,13 @@ div#lc12 {
 div#lc22 {
   position: relative;
   top: 40px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
 }
 div#lc13 {
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
@@ -280,7 +280,7 @@ div#lc13 {
 div#lc23 {
   position: relative;
   top: 64px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 16px;
   line-height: 24px;
   color: #111111;
@@ -356,7 +356,7 @@ div#alumni {
   border-bottom: #fff;
 }
 p#txt7 {
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 28px;
   line-height: 36px;
   position: absolute;
@@ -475,7 +475,7 @@ div#unect {
   position: absolute;
   top: 77.14px;
   left: 224px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 20px;
   line-height: 26px;
 }
@@ -512,7 +512,7 @@ div#rhunect {
   position: absolute;
   top: 60px;
   left: 837px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 20px;
   line-height: 26px;
 }
@@ -522,7 +522,7 @@ div#closed_captions {
   position: absolute;
   top: 60px;
   left: 1056px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 20px;
   line-height: 26px;
   color: #fdfdfd;
@@ -557,7 +557,7 @@ button.btduvida:hover {
   position: fixed;
   top: 100px;
   left: 1000px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   font-size: 120%;
   color: #fdfdfd;
   cursor: pointer;
@@ -573,7 +573,7 @@ button.btduvida:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   visibility: hidden;
   padding: 0px;
 }
@@ -620,7 +620,7 @@ div.modal {
   color: #226ed8;
   width: 398px;
   height: 99px;
-  font-family: Ubuntu;
+  font-family: "Ubuntu";
   overflow: visible;
   background-color: #ececec;
   top: 0%;
